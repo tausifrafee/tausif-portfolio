@@ -333,7 +333,7 @@ function Nav({ activeSection }) {
 const stats = [
   { target: 7, suffix: "+", label: "Years Experience" },
   { target: 100, suffix: "K+", label: "App Downloads" },
-  { target: 100, suffix: "+", label: "Students Mentored" },
+  { target: 200, suffix: "+", label: "Students Mentored" },
 ];
 
 function useCountUp(target, duration = 1800, started = false) {
