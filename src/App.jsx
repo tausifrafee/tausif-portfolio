@@ -178,7 +178,7 @@ const experiences = [
     color: theme.accentAlt,
     points: [
       "Deliver lectures & hands-on labs for Fundamentals of Software Development",
-      "Mentor 100+ students annually with 90% positive teaching feedback",
+      "Mentor 200+ students annually with 90% positive teaching feedback",
       "Conduct research on AI applications in software engineering",
       "Published findings at UTS AI Showcase 2024/2025",
     ],
